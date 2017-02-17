@@ -1,0 +1,8 @@
+asset list
+
+sword
+stone
+walls
+armor?
+door (bars)
+ceiling with sky light
